@@ -12,3 +12,16 @@ body{
     img{
         height: 150px;
     }
+    h1{
+        color:rgb(3, 83, 151);
+    }
+    h3{
+        color: rgb(3, 83, 151);
+    }
+    img{
+        height: 150px;
+    }
+    .fblogo{
+        height: 50px ;
+        border-radius: 50%;
+    }
